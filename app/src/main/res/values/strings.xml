@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestWeather</string>
+    <string name="logintop">Login to your app</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signin">sign up</string>
+    <string name="registrationtop">Register</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="ashortbio">A Short bio</string>
+    <string name="cto">CTO at marine bio</string>
+    <string name="minimum_password">Please Enter Above 6 charcaters</string>
+    <string name="auth_failed">Faild</string>
+    <string name="error_message">Error, Try Again!</string>
+    <string name="logout">Logout</string>
+    <string name="get_the_city_and_country">Get the city and country</string>
+    <string name="get_the_city_and_countrystate">Get the city, country and state</string>
+    <string name="state_code_optional">State Code(Optional)</string>
+</resources>
